@@ -4,7 +4,7 @@ const path = require('path');
 
 // 入口文件配置
 const entry = {
-    index: './src/index.ts'
+    SFUXInject: './src/index.ts'
 };
 
 module.exports = {
