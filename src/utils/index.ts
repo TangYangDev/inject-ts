@@ -1,6 +1,3 @@
-import utilsFunction from "./utilsFunction";
-const utils: object = {
-    ...utilsFunction
-};
+import utilsFunction from './utilsFunction';
 
-export default utils;
+export { utilsFunction };
